@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src/scripts",
+    "outDir": "./dist/scripts",
+    "target": "ES6",
+    "module": "ES6"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "TODO List",
+  "version": "0.0.1",
+  "description": "Simple TODO List app",
+  "scripts": {
+    "build": "tsc && cp src/index.html dist/ && mkdir dist/styles && cp src/styles/* dist/styles",
+    "clean": "rm -rf dist"
+  },
+  "author": "w1f1shower",
+  "license": "GPL",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
